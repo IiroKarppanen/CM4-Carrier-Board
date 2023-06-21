@@ -1,0 +1,2 @@
+(cam_conn) - https://www.digikey.fi/en/products/detail/molex/0545482271/3196988
+(lipo conn) - https://www.digikey.fi/en/products/detail/jst-sales-america-inc/B2B-PH-SM4-TB-LF-SN/926641

@@ -1,0 +1,5 @@
+(sym_lib_table
+  (version 7)
+  (lib (name "CM4IO")(type "KiCad")(uri "C:/Users/iirok/Downloads/rpi-cm4-carrier-template-main/rpi-cm4-carrier-template-main/hardware/libraries/CM4IO/CM4IO.kicad_sym")(options "")(descr ""))
+  (lib (name "USB4105-GF-A")(type "KiCad")(uri "C:/Users/iirok/Downloads/rpi-cm4-carrier-template-main/rpi-cm4-carrier-template-main/hardware/libraries/USB4105-GF-A/USB4105-GF-A.kicad_sym")(options "")(descr ""))
+)
