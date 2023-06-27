@@ -3,4 +3,6 @@
   (lib (name "CM4IO")(type "KiCad")(uri "C:/Users/iirok/Downloads/rpi-cm4-carrier-template-main/rpi-cm4-carrier-template-main/hardware/libraries/CM4IO/CM4IO.pretty")(options "")(descr ""))
   (lib (name "USB4105-GF-A")(type "KiCad")(uri "C:/Users/iirok/Downloads/rpi-cm4-carrier-template-main/rpi-cm4-carrier-template-main/hardware/libraries/USB4105-GF-A")(options "")(descr ""))
   (lib (name "BQ25792RQMR")(type "KiCad")(uri "${KIPRJMOD}/libraries/BQ25792RQMR")(options "")(descr ""))
+  (lib (name "MP2624")(type "KiCad")(uri "${KIPRJMOD}/libraries/ul_MP2624GL-P/KiCADv6/footprints.pretty")(options "")(descr ""))
+  (lib (name "MP3423")(type "KiCad")(uri "${KIPRJMOD}/libraries/ul_MP3423GG-P/KiCADv6/footprints.pretty")(options "")(descr ""))
 )

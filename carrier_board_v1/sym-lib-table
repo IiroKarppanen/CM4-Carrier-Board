@@ -3,4 +3,6 @@
   (lib (name "CM4IO")(type "KiCad")(uri "${KIPRJMOD}/libraries/CM4IO/CM4IO.kicad_sym")(options "")(descr ""))
   (lib (name "USB4105-GF-A")(type "KiCad")(uri "${KIPRJMOD}/libraries/USB4105-GF-A/USB4105-GF-A.kicad_sym")(options "")(descr ""))
   (lib (name "BQ25792RQMR")(type "KiCad")(uri "${KIPRJMOD}/libraries/BQ25792RQMR/BQ25792RQMR.kicad_sym")(options "")(descr ""))
+  (lib (name "MP2624")(type "KiCad")(uri "${KIPRJMOD}/libraries/ul_MP2624GL-P/KiCADv6/2023-06-27_19-35-09.kicad_sym")(options "")(descr ""))
+  (lib (name "MP3423")(type "KiCad")(uri "${KIPRJMOD}/libraries/ul_MP3423GG-P/KiCADv6/2023-06-27_20-07-45.kicad_sym")(options "")(descr ""))
 )
