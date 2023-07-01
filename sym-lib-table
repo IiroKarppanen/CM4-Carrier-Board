@@ -4,4 +4,5 @@
   (lib (name "USB4105-GF-A")(type "KiCad")(uri "${KIPRJMOD}/libraries/USB4105-GF-A/USB4105-GF-A.kicad_sym")(options "")(descr ""))
   (lib (name "BQ25302")(type "KiCad")(uri "${KIPRJMOD}/libraries/ul_BQ25302RTER/KiCADv6/2023-06-29_14-23-01.kicad_sym")(options "")(descr ""))
   (lib (name "TPS2121RUXR")(type "KiCad")(uri "${KIPRJMOD}/libraries/TPS2121RUXR/TPS2121RUXR.kicad_sym")(options "")(descr ""))
+  (lib (name "thermistor")(type "KiCad")(uri "${KIPRJMOD}/libraries/thermistor/KiCADv6/thermistor.kicad_sym")(options "")(descr ""))
 )
