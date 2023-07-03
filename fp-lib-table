@@ -1,8 +1,9 @@
 (fp_lib_table
   (version 7)
-  (lib (name "CM4IO")(type "KiCad")(uri "C:/Users/iirok/Downloads/rpi-cm4-carrier-template-main/rpi-cm4-carrier-template-main/hardware/libraries/CM4IO/CM4IO.pretty")(options "")(descr ""))
-  (lib (name "USB4105-GF-A")(type "KiCad")(uri "C:/Users/iirok/Downloads/rpi-cm4-carrier-template-main/rpi-cm4-carrier-template-main/hardware/libraries/USB4105-GF-A")(options "")(descr ""))
+  (lib (name "CM4IO")(type "KiCad")(uri "${KIPRJMOD}/libraries/CM4IO/CM4IO.pretty")(options "")(descr ""))
+  (lib (name "USB4105-GF-A")(type "KiCad")(uri "${KIPRJMOD}/libraries/USB4105-GF-A")(options "")(descr ""))
   (lib (name "BQ25302")(type "KiCad")(uri "${KIPRJMOD}/libraries/ul_BQ25302RTER/KiCADv6/footprints.pretty")(options "")(descr ""))
   (lib (name "TPS2121RUXR")(type "KiCad")(uri "${KIPRJMOD}/libraries/TPS2121RUXR")(options "")(descr ""))
   (lib (name "thermistor")(type "KiCad")(uri "${KIPRJMOD}/libraries/thermistor/KiCADv6/thermistor")(options "")(descr ""))
+  (lib (name "digikey-footprints")(type "KiCad")(uri "${KIPRJMOD}/libraries/digikey-kicad-library-master/digikey-kicad-library-master/digikey-footprints.pretty")(options "")(descr ""))
 )

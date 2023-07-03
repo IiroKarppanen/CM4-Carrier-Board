@@ -2,7 +2,7 @@
 
   (uuid 7c2e4356-99de-4c13-89ad-ca928a2db042)
 
-  (paper "A4")
+  (paper "A5")
 
   (title_block
     (title "Raspberry Pi Compute Module 4 Carrier Board v1")
@@ -17,15 +17,15 @@
   )
 
 
-  (sheet (at 101.6 101.6) (size 38.1 38.1)
+  (sheet (at 113.665 45.085) (size 38.1 38.1)
     (stroke (width 0) (type solid) (color 132 0 132 1))
     (fill (color 255 255 255 0.0000))
     (uuid caa71f4c-454d-4ac9-b287-456eafb34991)
-    (property "Sheetname" "CM4 High Speed" (at 101.6 100.9645 0)
+    (property "Sheetname" "CM4 Camera pins" (at 123.19 44.45 0)
       (effects (font (size 1.27 1.27)) (justify left bottom))
     )
-    (property "Sheetfile" "cm4-high-speed.kicad_sch" (at 101.6 140.2085 0)
-      (effects (font (size 1.27 1.27)) (justify left top))
+    (property "Sheetfile" "cm4-high-speed.kicad_sch" (at 113.665 83.6935 0)
+      (effects (font (size 1.27 1.27)) (justify left top) hide)
     )
     (instances
       (project "carrier_board_v1"
@@ -34,15 +34,15 @@
     )
   )
 
-  (sheet (at 101.6 50.8) (size 38.1 38.1)
+  (sheet (at 55.245 45.085) (size 38.1 38.1)
     (stroke (width 0) (type solid) (color 132 0 132 1))
     (fill (color 255 255 255 0.0000))
     (uuid fc4c71a5-1008-4ac4-98db-57c838c57d91)
-    (property "Sheetname" "CM4 GPIO" (at 101.6 50.1645 0)
+    (property "Sheetname" "CM4 GPIO and power pins" (at 61.595 43.815 0)
       (effects (font (size 1.27 1.27)) (justify left bottom))
     )
-    (property "Sheetfile" "cm4-gpio.kicad_sch" (at 101.6 89.4085 0)
-      (effects (font (size 1.27 1.27)) (justify left top))
+    (property "Sheetfile" "cm4-gpio.kicad_sch" (at 55.245 83.6935 0)
+      (effects (font (size 1.27 1.27)) (justify left top) hide)
     )
     (instances
       (project "carrier_board_v1"

@@ -501,11 +501,11 @@
     ],
     [
       "fc4c71a5-1008-4ac4-98db-57c838c57d91",
-      "CM4 GPIO"
+      "CM4 GPIO and power pins"
     ],
     [
       "caa71f4c-454d-4ac9-b287-456eafb34991",
-      "CM4 High Speed"
+      "CM4 Camera pins"
     ]
   ],
   "text_variables": {}
