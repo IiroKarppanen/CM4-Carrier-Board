@@ -6,4 +6,6 @@
   (lib (name "TPS2121RUXR")(type "KiCad")(uri "${KIPRJMOD}/libraries/TPS2121RUXR")(options "")(descr ""))
   (lib (name "thermistor")(type "KiCad")(uri "${KIPRJMOD}/libraries/thermistor/KiCADv6/thermistor")(options "")(descr ""))
   (lib (name "digikey-footprints")(type "KiCad")(uri "${KIPRJMOD}/libraries/digikey-kicad-library-master/digikey-kicad-library-master/digikey-footprints.pretty")(options "")(descr ""))
+  (lib (name "ADP2302ARDZ-5.0-R7")(type "KiCad")(uri "${KIPRJMOD}/libraries/ul_ADP2302ARDZ-5-0-R7/KiCADv6/footprints.pretty")(options "")(descr ""))
+  (lib (name "SMBJ5-0A-TR")(type "KiCad")(uri "${KIPRJMOD}/libraries/ul_SMBJ5-0A-TR/KiCADv6/footprints.pretty")(options "")(descr ""))
 )
