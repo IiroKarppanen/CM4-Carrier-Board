@@ -158,4 +158,7 @@
   (lib (name "54548-2271")(type "KiCad")(uri "${KIPRJMOD}/libraries/54548-2271/54548-2271.kicad_sym")(options "")(descr ""))
   (lib (name "ADP2302ARDZ-5.0-R7")(type "KiCad")(uri "${KIPRJMOD}/libraries/ul_ADP2302ARDZ-5-0-R7/KiCADv6/2023-07-04_10-05-34.kicad_sym")(options "")(descr ""))
   (lib (name "SMBJ5-0A-TR")(type "KiCad")(uri "${KIPRJMOD}/libraries/ul_SMBJ5-0A-TR/KiCADv6/2023-07-04_12-16-45.kicad_sym")(options "")(descr ""))
+  (lib (name "SPM5030VT-2R2M-D")(type "KiCad")(uri "${KIPRJMOD}/libraries/SPM5030VT-2R2M-D/SPM5030VT-2R2M-D.kicad_sym")(options "")(descr ""))
+  (lib (name "DFE201612P-1R0M_P2")(type "KiCad")(uri "${KIPRJMOD}/libraries/DFE201612P-1R0M_P2/DFE201612P-1R0M_P2.kicad_sym")(options "")(descr ""))
+  (lib (name "MAKK2016T1R0M")(type "KiCad")(uri "${KIPRJMOD}/libraries/MAKK2016T1R0M/MAKK2016T1R0M.kicad_sym")(options "")(descr ""))
 )
