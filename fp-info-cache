@@ -1,4 +1,4 @@
-22557120156016580
+22564273874071812
 54548-2271
 MOLEX_54548-2271
 
@@ -51575,6 +51575,13 @@ SMD SMT ceramic resonator filter filter hand-soldering
 0
 3
 3
+DFE201612P-1R0M_P2
+INDC2016X120N
+
+
+0
+2
+2
 Diode_SMD
 D_0201_0603Metric
 Diode SMD 0201 (0603 Metric), square (rectangular) end terminal, IPC_7351 nominal, (Body size source: https://www.vishay.com/docs/20052/crcw0201e3.pdf), generated with kicad-footprint-generator
@@ -60938,6 +60945,13 @@ LED_THT
 LED_VCCLite_5381H7_6.35x6.35mm
 Yellow 5381 Series LED VCCLite https://vcclite.com/wp-content/uploads/wpallimport/files/files/5381Series.pdf http://static.vcclite.com/pdf/Mounting%20Hole%20Pattern%202.pdf
 Yellow 5381 Series LED
+0
+2
+2
+MAKK2016T1R0M
+INDC2016X100N
+
+
 0
 2
 2
@@ -83271,6 +83285,13 @@ SMBJ5.0A-TR
 0
 2
 2
+SPM5030VT-2R2M-D
+IND_SPM5030VT-2R2M-D
+
+
+0
+2
+2
 Sensor
 Aosong_DHT11_5.5x12.0_P2.54mm
 Temperature and humidity module, http://akizukidenshi.com/download/ds/aosong/DHT11.pdf
@@ -84853,6 +84874,13 @@ IC_TPS2121RUXR
 0
 16
 16
+TPS61256YFFR
+YFF0009ACAG
+
+TPS61256YFFR 
+0
+9
+9
 TerminalBlock
 TerminalBlock_Altech_AK300-2_P5.00mm
 Altech AK300 terminal block, pitch 5.0mm, 45 degree angled, see http://www.mouser.com/ds/2/16/PCBMETRC-24178.pdf

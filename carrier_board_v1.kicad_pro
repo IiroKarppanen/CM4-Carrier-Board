@@ -481,9 +481,9 @@
     },
     "net_colors": null,
     "netclass_assignments": {
-      "+5V": "Power",
       "/CM4 Camera pins/USB2_N": "USB Data",
       "/CM4 Camera pins/USB2_P": "USB Data",
+      "/CM4 GPIO and power pins/VBUS": "Power",
       "Net-(J4-CC1)": "Power",
       "Net-(J4-CC2)": "Power"
     },
