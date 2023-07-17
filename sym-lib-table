@@ -162,4 +162,5 @@
   (lib (name "DFE201612P-1R0M_P2")(type "KiCad")(uri "${KIPRJMOD}/libraries/DFE201612P-1R0M_P2/DFE201612P-1R0M_P2.kicad_sym")(options "")(descr ""))
   (lib (name "MAKK2016T1R0M")(type "KiCad")(uri "${KIPRJMOD}/libraries/MAKK2016T1R0M/MAKK2016T1R0M.kicad_sym")(options "")(descr ""))
   (lib (name "TPS61256YFFR")(type "KiCad")(uri "${KIPRJMOD}/libraries/ul_TPS61256YFFR/KiCADv6/2023-07-16_08-16-46.kicad_sym")(options "")(descr ""))
+  (lib (name "MP28167GQ-P")(type "KiCad")(uri "${KIPRJMOD}/libraries/MP28167GQ-P/2023-07-17_19-12-36.kicad_sym")(options "")(descr ""))
 )

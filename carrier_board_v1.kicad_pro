@@ -483,7 +483,7 @@
     "netclass_assignments": {
       "/CM4 Camera pins/USB2_N": "USB Data",
       "/CM4 Camera pins/USB2_P": "USB Data",
-      "/CM4 GPIO and power pins/VBUS": "Power",
+      "Net-(D1-A)": "Power",
       "Net-(J4-CC1)": "Power",
       "Net-(J4-CC2)": "Power"
     },
