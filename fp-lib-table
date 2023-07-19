@@ -14,4 +14,6 @@
   (lib (name "TPS61256YFFR")(type "KiCad")(uri "${KIPRJMOD}/libraries/ul_TPS61256YFFR/KiCADv6/footprints.pretty")(options "")(descr ""))
   (lib (name "54548-2271")(type "KiCad")(uri "${KIPRJMOD}/libraries/54548-2271")(options "")(descr ""))
   (lib (name "MP28167GQ-P")(type "KiCad")(uri "${KIPRJMOD}/libraries/MP28167GQ-P/footprints.pretty")(options "")(descr ""))
+  (lib (name "IHLP2020CZER4R7M11")(type "KiCad")(uri "${KIPRJMOD}/libraries/ul_IHLP2020CZER4R7M11/KiCADv6/footprints.pretty")(options "")(descr ""))
+  (lib (name "SRP5030CA-2R2M")(type "KiCad")(uri "${KIPRJMOD}/libraries/SRP5030CA-2R2M/KiCad")(options "")(descr ""))
 )

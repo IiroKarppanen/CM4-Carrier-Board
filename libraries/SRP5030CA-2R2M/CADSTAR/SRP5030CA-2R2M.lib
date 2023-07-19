@@ -1,0 +1,18 @@
+.SRP5030CA-2R2M :1 ;Fixed Inductors 2.2uH20% 9.7A
+SRP5030CA4R7M
+*STM L
+*NGS
+*PLB 1="1" 2="2"
+*MXP 2
+*DFN SRP5030CA-2R2M
+~!Manufacturer_Name (Bourns)
+~!Manufacturer_Part_Number (SRP5030CA-2R2M)
+~!Mouser Part Number (652-SRP5030CA-2R2M)
+~!Link Mouser Price/Stock (https://www.mouser.co.uk/ProductDetail/Bourns/SRP5030CA-2R2M?qs=MLItCLRbWsy6rFgTniE8hg%3D%3D)
+~!Arrow Part Number (SRP5030CA-2R2M)
+~!Link Arrow Price/Stock (https://www.arrow.com/en/products/srp5030ca-2r2m/bourns)
+~!Link Datasheet (https://www.bourns.com/docs/Product-Datasheets/SRP5030CA.pdf)
+~!Height (3.1mm)
+~!3D_Model (SRP5030CA-2R2M)
+SRP5030CA-2R2M
+1.1!U 2.1!U 

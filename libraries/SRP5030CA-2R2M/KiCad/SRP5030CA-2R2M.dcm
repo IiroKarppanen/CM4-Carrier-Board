@@ -1,0 +1,9 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP SRP5030CA-2R2M
+D Fixed Inductors 2.2uH20% 9.7A
+K
+F https://www.bourns.com/docs/Product-Datasheets/SRP5030CA.pdf
+$ENDCMP
+#
+#End Doc Library

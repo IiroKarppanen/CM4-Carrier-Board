@@ -1,0 +1,9 @@
+Manufacturer=Bourns
+PartNumber=SRP5030CA-2R2M
+PartCategory=Inductor
+PackageCategory=Other
+PinCount=2
+Version=2.5
+Released=2020-05-11 15:27:31
+Downloaded=2023-07-19 13:48:30
+3D=Y

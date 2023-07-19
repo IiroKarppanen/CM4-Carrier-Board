@@ -1,0 +1,11 @@
+FILE_TYPE = MULTI_PHYS_TABLE;
+
+PART 'SRP5030CA_2R2M'
+CLASS = DISCRETE
+{========================================================================================}
+:"MANUFACTURER_NAME", "MANUFACTURER_PART_NUMBER"= "PART_NUMBER", "JEDEC_TYPE", "PACK_TYPE", "MOUSER_PART_NUMBER", "MOUSER_PRICE/STOCK", "ARROW_PART_NUMBER", "ARROW_PRICE/STOCK", "DESCRIPTION", "DATASHEET", "HEIGHT";
+{========================================================================================}
+ "Bourns", "SRP5030CA-2R2M" (!) = "", "SRP5030CA4R7M", "Other", "652-SRP5030CA-2R2M", "https://www.mouser.co.uk/ProductDetail/Bourns/SRP5030CA-2R2M?qs=MLItCLRbWsy6rFgTniE8hg%3D%3D", "SRP5030CA-2R2M", "https://www.arrow.com/en/products/srp5030ca-2r2m/bourns", "Fixed Inductors 2.2uH20% 9.7A", "https://www.bourns.com/docs/Product-Datasheets/SRP5030CA.pdf", "3.1 mm"
+END_PART
+
+END.
