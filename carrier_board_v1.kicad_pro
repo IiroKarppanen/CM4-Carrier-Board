@@ -57,6 +57,26 @@
         }
       ],
       "drc_exclusions": [
+        "clearance|131830900|100612200|224334d6-ec44-42aa-8f27-09f2071583a6|23fb9961-74ae-4a90-925a-10c6584cbe0b",
+        "clearance|131830900|101112199|3d167b6d-26ba-48e9-8e06-ca131ad04336|224334d6-ec44-42aa-8f27-09f2071583a6",
+        "clearance|131830900|101612201|b1fbe623-5179-495c-a245-7ce0941b65e9|3d167b6d-26ba-48e9-8e06-ca131ad04336",
+        "clearance|131830900|102112200|b5b33968-8547-4e64-87c1-a408bee0ed17|b1fbe623-5179-495c-a245-7ce0941b65e9",
+        "clearance|131830900|102612199|02d307b2-14aa-4391-ab3c-fa98f355fff5|b5b33968-8547-4e64-87c1-a408bee0ed17",
+        "clearance|131830900|103112200|7537b290-922c-4c36-b679-93ed672ae6ed|02d307b2-14aa-4391-ab3c-fa98f355fff5",
+        "clearance|131830900|103612200|253a3980-b14f-460e-8840-fbcb2195194a|7537b290-922c-4c36-b679-93ed672ae6ed",
+        "clearance|131830900|104112201|919a5578-4e88-471d-bda3-67bdd8613318|253a3980-b14f-460e-8840-fbcb2195194a",
+        "clearance|131830900|104612200|906ee552-d4a1-47c0-8550-da090db9f434|919a5578-4e88-471d-bda3-67bdd8613318",
+        "clearance|131830900|105112199|79deac40-7c29-438e-a62f-b735b56825ae|906ee552-d4a1-47c0-8550-da090db9f434",
+        "clearance|131830900|105612201|218340d5-5ec5-48ad-8caf-49a74ff3b810|79deac40-7c29-438e-a62f-b735b56825ae",
+        "clearance|131830900|106112200|be408b8e-919a-48b8-b862-fd78d1827fa0|218340d5-5ec5-48ad-8caf-49a74ff3b810",
+        "clearance|131830900|106612201|fe7f8fa6-fde4-4e30-9475-e22c4d49cf3e|be408b8e-919a-48b8-b862-fd78d1827fa0",
+        "clearance|131830900|107112200|64ed39d7-2605-43bc-86e4-ddb4c2a6c4b3|fe7f8fa6-fde4-4e30-9475-e22c4d49cf3e",
+        "clearance|131830900|107612199|7386ab47-537b-44bb-9e58-f6ac44d20a98|64ed39d7-2605-43bc-86e4-ddb4c2a6c4b3",
+        "clearance|131830900|108112201|9f44b381-feea-46c9-9b37-24ef0305c0b5|7386ab47-537b-44bb-9e58-f6ac44d20a98",
+        "clearance|131830900|108612200|1cab5867-362f-4916-954a-7958bd7f7655|9f44b381-feea-46c9-9b37-24ef0305c0b5",
+        "clearance|131830900|98612199|344fe50b-11af-4551-9196-5e2039f4c7fd|c65ecd4a-7ce2-460c-b826-64aa0768f50b",
+        "clearance|131830900|99112201|ba86b095-0be3-4801-955c-341584eced41|344fe50b-11af-4551-9196-5e2039f4c7fd",
+        "clearance|131830900|99612200|a3eb0878-8de0-4bfd-9f9a-1c274a2828dd|ba86b095-0be3-4801-955c-341584eced41",
         "hole_clearance|135550000|84250000|0b296d22-cbdf-4423-bb8c-f2d3ab36fa7d|3f2ad1a1-f054-49a5-8c49-120b14ac2e63",
         "hole_clearance|135750000|84250000|0b296d22-cbdf-4423-bb8c-f2d3ab36fa7d|92ec6168-3e50-4294-a867-a913f3af905a",
         "hole_clearance|141150000|84250000|fe0b0e80-100b-4c5c-b175-142b07974447|8aa9d3f4-e164-48ee-bb4c-62d4c894e92f",
@@ -492,9 +512,9 @@
     "netclass_assignments": {
       "/CM4 Camera pins/USB2_N": "USB Data",
       "/CM4 Camera pins/USB2_P": "USB Data",
-      "Net-(D1-A)": "Power",
       "Net-(J4-CC1)": "Power",
-      "Net-(J4-CC2)": "Power"
+      "Net-(J4-CC2)": "Power",
+      "Net-(Q1-G)": "Power"
     },
     "netclass_patterns": [
       {
@@ -513,7 +533,7 @@
       "idf": "",
       "netlist": "",
       "specctra_dsn": "",
-      "step": "",
+      "step": "carrier_board_v1.step",
       "vrml": ""
     },
     "page_layout_descr_file": ""
@@ -554,7 +574,7 @@
       "workbook_filename": ""
     },
     "page_layout_descr_file": "",
-    "plot_directory": "",
+    "plot_directory": "gsdgsdg",
     "spice_adjust_passive_values": false,
     "spice_current_sheet_as_root": false,
     "spice_external_command": "spice \"%I\"",

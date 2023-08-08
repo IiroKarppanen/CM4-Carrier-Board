@@ -165,4 +165,7 @@
   (lib (name "MP28167GQ-P")(type "KiCad")(uri "${KIPRJMOD}/libraries/MP28167GQ-P/2023-07-17_19-12-36.kicad_sym")(options "")(descr ""))
   (lib (name "IHLP2020CZER4R7M11")(type "KiCad")(uri "${KIPRJMOD}/libraries/ul_IHLP2020CZER4R7M11/KiCADv6/2023-07-19_10-44-14.kicad_sym")(options "")(descr ""))
   (lib (name "SRP5030CA-2R2M")(type "KiCad")(uri "${KIPRJMOD}/libraries/SRP5030CA-2R2M/KiCad/SRP5030CA-2R2M.kicad_sym")(options "")(descr ""))
+  (lib (name "DF40C-100DS-0.4V_51_")(type "KiCad")(uri "${KIPRJMOD}/libraries/DF40C-100DS-0.4V_51_/DF40C-100DS-0.4V_51_.kicad_sym")(options "")(descr ""))
+  (lib (name "CDBA340-HF")(type "KiCad")(uri "${KIPRJMOD}/libraries/ul_CDBA340-HF/KiCADv6/2023-07-25_07-12-50.kicad_sym")(options "")(descr ""))
+  (lib (name "FH34SRJ-22S-0-5SH-50")(type "KiCad")(uri "${KIPRJMOD}/libraries/ul_FH34SRJ-22S-0-5SH-50-/KiCADv6/FH34SRJ-22S-0-5SH-50.kicad_sym")(options "")(descr ""))
 )

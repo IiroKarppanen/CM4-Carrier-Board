@@ -16,4 +16,6 @@
   (lib (name "MP28167GQ-P")(type "KiCad")(uri "${KIPRJMOD}/libraries/MP28167GQ-P/footprints.pretty")(options "")(descr ""))
   (lib (name "IHLP2020CZER4R7M11")(type "KiCad")(uri "${KIPRJMOD}/libraries/ul_IHLP2020CZER4R7M11/KiCADv6/footprints.pretty")(options "")(descr ""))
   (lib (name "SRP5030CA-2R2M")(type "KiCad")(uri "${KIPRJMOD}/libraries/SRP5030CA-2R2M/KiCad")(options "")(descr ""))
+  (lib (name "CDBA340-HF")(type "KiCad")(uri "${KIPRJMOD}/libraries/ul_CDBA340-HF/KiCADv6/footprints.pretty")(options "")(descr ""))
+  (lib (name "FH34SRJ-22S-0-5SH-50")(type "KiCad")(uri "${KIPRJMOD}/libraries/ul_FH34SRJ-22S-0-5SH-50-/KiCADv6/FH34SRJ-22S-0-5SH-50.pretty")(options "")(descr ""))
 )

@@ -1,4 +1,4 @@
-22565569051166652
+22580779828747211
 54548-2271
 MOLEX_54548-2271
 
@@ -2446,6 +2446,27 @@ Buzzer_Beeper
 Speaker_CUI_CMR-1206S-67
 Speaker, 30mW, 300-7000Hz, IP67 face, 12x6x2,25mm, https://www.cuidevices.com/product/resource/cmr-12062s-67.pdf
 speaker CUI
+0
+2
+2
+CDBA340-HF
+CDBA-HF
+
+CDBA340-HF 
+0
+2
+2
+CDBA340-HF
+CDBA-HF-L
+
+CDBA340-HF 
+0
+2
+2
+CDBA340-HF
+CDBA-HF-M
+
+CDBA340-HF 
 0
 2
 2
@@ -51575,6 +51596,13 @@ SMD SMT ceramic resonator filter filter hand-soldering
 0
 3
 3
+DF40C-100DS-0.4V_51_
+HRS_DF40C-100DS-0.4V(51)
+
+
+0
+100
+100
 DFE201612P-1R0M_P2
 INDC2016X120N
 
@@ -53542,6 +53570,13 @@ One digit LED 7 segment SA39-11 SC39-11 SA39-12 SC39-12
 0
 10
 10
+FH34SRJ-22S-0-5SH-50
+CONN22x1_FH34SRJ-22S-0.5SH50_HIR
+
+FH34SRJ-22S-0.5SH50 
+0
+24
+24
 Ferrite_THT
 LairdTech_28C0236-0JW-10
 Ferrite, vertical, LairdTech 28C0236-0JW-10, https://assets.lairdtech.com/home/brandworld/files/28C0236-0JW-10.pdf, JW Miller core https://www.bourns.com/products/magnetic-products/j.w.-miller-through-hole-ferrite-beads-emi-filters
@@ -54669,6 +54704,27 @@ heatsink
 0
 2
 1
+IHLP2020CZER4R7M11
+IND_IHLP-2020CZ
+
+IHLP2020CZER4R7M11 
+0
+2
+2
+IHLP2020CZER4R7M11
+IND_IHLP-2020CZ-L
+
+IHLP2020CZER4R7M11 
+0
+2
+2
+IHLP2020CZER4R7M11
+IND_IHLP-2020CZ-M
+
+IHLP2020CZER4R7M11 
+0
+2
+2
 Inductor_SMD
 L_6.3x6.3_H3
 Choke, SMD, 6.3x6.3mm 3mm height
@@ -83296,6 +83352,13 @@ SPM5030VT-2R2M-D
 IND_SPM5030VT-2R2M-D
 
 
+0
+2
+2
+SRP5030CA-2R2M
+SRP5030CA4R7M
+SRP5030CA-4R7M-1
+Inductor
 0
 2
 2
