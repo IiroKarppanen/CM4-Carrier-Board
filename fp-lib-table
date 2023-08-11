@@ -18,4 +18,7 @@
   (lib (name "SRP5030CA-2R2M")(type "KiCad")(uri "${KIPRJMOD}/libraries/SRP5030CA-2R2M/KiCad")(options "")(descr ""))
   (lib (name "CDBA340-HF")(type "KiCad")(uri "${KIPRJMOD}/libraries/ul_CDBA340-HF/KiCADv6/footprints.pretty")(options "")(descr ""))
   (lib (name "FH34SRJ-22S-0-5SH-50")(type "KiCad")(uri "${KIPRJMOD}/libraries/ul_FH34SRJ-22S-0-5SH-50-/KiCADv6/FH34SRJ-22S-0-5SH-50.pretty")(options "")(descr ""))
+  (lib (name "TPS61235PRWLT")(type "KiCad")(uri "${KIPRJMOD}/libraries/ul_TPS61235PRWLT/KiCADv6/TPS61235PRWLT.pretty")(options "")(descr ""))
+  (lib (name "LTC4412ES6_TRPBF")(type "KiCad")(uri "${KIPRJMOD}/libraries/LTC4412ES6_TRPBF")(options "")(descr ""))
+  (lib (name "LTC4413EDD_PBF")(type "KiCad")(uri "${KIPRJMOD}/libraries/LTC4413EDD_PBF")(options "")(descr ""))
 )
