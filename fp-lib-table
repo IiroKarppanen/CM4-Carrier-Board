@@ -21,4 +21,6 @@
   (lib (name "TPS61235PRWLT")(type "KiCad")(uri "${KIPRJMOD}/libraries/ul_TPS61235PRWLT/KiCADv6/TPS61235PRWLT.pretty")(options "")(descr ""))
   (lib (name "LTC4412ES6_TRPBF")(type "KiCad")(uri "${KIPRJMOD}/libraries/LTC4412ES6_TRPBF")(options "")(descr ""))
   (lib (name "LTC4413EDD_PBF")(type "KiCad")(uri "${KIPRJMOD}/libraries/LTC4413EDD_PBF")(options "")(descr ""))
+  (lib (name "MDMK4040T1R0MM")(type "KiCad")(uri "${KIPRJMOD}/libraries/MDMK4040T1R0MM")(options "")(descr ""))
+  (lib (name "DF40C-100DS-0.4V_51_")(type "KiCad")(uri "${KIPRJMOD}/libraries/DF40C-100DS-0.4V_51_")(options "")(descr ""))
 )

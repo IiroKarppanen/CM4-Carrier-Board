@@ -4653,7 +4653,7 @@
     (property "Value" "DF40C-100DS-0.4V(51)" (at 41.91 93.98 0)
       (effects (font (size 1.27 1.27)))
     )
-    (property "Footprint" "HRS_DF40C-100DS-0.4V(51)" (at 41.91 160.02 0)
+    (property "Footprint" "DF40C-100DS-0.4V_51_:HRS_DF40C-100DS-0.4V(51)" (at 41.91 160.02 0)
       (effects (font (size 1.27 1.27)) (justify bottom) hide)
     )
     (property "Datasheet" "" (at 41.91 160.02 0)

@@ -1,0 +1,9 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP MDMK4040T1R0MM
+D Fixed Inductors 4040 1uH 36mOhms +/-20%Tol 4.5A HiCur
+K
+F https://datasheet.datasheetarchive.com/originals/distributors/DKDS-8/144136.pdf
+$ENDCMP
+#
+#End Doc Library
