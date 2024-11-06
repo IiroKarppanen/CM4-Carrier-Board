@@ -1,6 +1,6 @@
 # Custom carrier board for Raspberry Compute Module 4
 
-- USB C port for Infiray P2 pro thermal camera module
+- USB-C port for Infiray P2 pro thermal camera module
 - Connector for Raspberry camera module
 - GPIO header
 - Charging circuit for LiPo/Li-ion battery
